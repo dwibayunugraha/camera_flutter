@@ -1,0 +1,2 @@
+C:/Semester 6/AplikasiMobile/Sabtu8maret/kamera_flutter/android/app/.cxx/Debug/5t1r456j/x86_64/CMakeFiles/edit_cache.dir
+C:/Semester 6/AplikasiMobile/Sabtu8maret/kamera_flutter/android/app/.cxx/Debug/5t1r456j/x86_64/CMakeFiles/rebuild_cache.dir

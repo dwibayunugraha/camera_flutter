@@ -18,7 +18,6 @@ Proyek ini bertujuan untuk menggunakan kamera dengan efek filter.
 <img src="assets/images/dokumentasi-camera.gif" alt="Camera" width="300px">
 
 # 2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
-## Done...
 
 # 3. Jelaskan maksud void async pada praktikum 1?
 ## Maksud void async pada praktikum 1 adalah untuk digunakan agar kita bisa menangani operasi kamera secara asinkron tanpa mengganggu alur program utama.
